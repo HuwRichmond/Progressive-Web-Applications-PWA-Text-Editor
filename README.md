@@ -11,7 +11,7 @@ The application can be used locally on a device by cloning the repository from G
 [4. Installation](#Installation)  
 [5. Tests](#Tests)  
 [6. License](#License)  
-[7. Github Repository](#Github-Repository)   
+[7. URLs](#URLs)   
 [8. Contact](#Contact)  
 
 ## Description
@@ -80,8 +80,9 @@ The application can then be viewed locally on localhost:3001
    
     None
 
-## Github Repository
+## URLs
  [github.com/HuwRichmond/Progressive-Web-Applications-PWA-Text-Editor](https://github.com/HuwRichmond/Progressive-Web-Applications-PWA-Text-Editor)
+ Deployed Heroku Link
 
 ## Contact
 
