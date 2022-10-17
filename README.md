@@ -81,8 +81,8 @@ The application can then be viewed locally on localhost:3001
     None
 
 ## URLs
- [github.com/HuwRichmond/Progressive-Web-Applications-PWA-Text-Editor](https://github.com/HuwRichmond/Progressive-Web-Applications-PWA-Text-Editor)
- Deployed Heroku Link
+ * [github.com/HuwRichmond/Progressive-Web-Applications-PWA-Text-Editor](https://github.com/HuwRichmond/Progressive-Web-Applications-PWA-Text-Editor)
+ * [https://young-reef-49269.herokuapp.com/](https://young-reef-49269.herokuapp.com/)
 
 ## Contact
 
