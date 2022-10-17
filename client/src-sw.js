@@ -26,7 +26,7 @@ warmStrategyCache({
 
 registerRoute(({ request }) => request.mode === 'navigate', pageCache);
 
-// TODO: Implement asset caching
+
 const cacheName = 'asset-cache';
 const matchCallback = ({ request }) => ['style', 'script', 'worker'].includes(request.destination);
 registerRoute(
